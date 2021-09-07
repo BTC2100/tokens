@@ -1,0 +1,10 @@
+"name": "saviornetwork",
+ "website": "https://https://saviornetwork.io",
+ "description": "A leading multi-chain wallet that supportsBSC",
+ "explorer": "https://bscscan.com/token/0x0aA2b4224DF49B3BcCac07a36a156de4412F43bD",
+ "type": "BEP20",
+ "symbol": "SAV",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0aA2b4224DF49B3BcCac07a36a156de4412F43bD"
+}
